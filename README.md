@@ -1,7 +1,6 @@
 # Django-tutorials
-How to setup your development environment - including how to use the terminal, your
-virtual environment, the pip installer, how to work with Git, and more.
-• Setup a Django project and create a basic Django application.
+## How to setup your development environment - including how to use the terminal, your virtual environment, the pip installer, how to work with Git, and more.
+- Setup a Django project and create a basic Django application.
 • Configure the Django project to serve static media and other media files.
 • Work with Django’s Model-View-Template design pattern.
 • Create database models and use the object relational mapping (ORM) functionality provided
