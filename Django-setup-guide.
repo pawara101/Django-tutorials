@@ -1,0 +1,5 @@
+# Create Django Project
+$ django-admin startproject tango_with_django_project
+
+## Run server
+$ pyton manage.py runserver
