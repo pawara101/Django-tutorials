@@ -1,5 +1,23 @@
-# Create Django Project
+## Create Django Project
 $ django-admin startproject tango_with_django_project
 
 ## Run server
 $ pyton manage.py runserver
+
+## Create application
+$ python manage.py startapp <name>
+
+## add application to Insalled apps in settings.py
+# Application definition
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    *'rango'*,
+]
+
+
